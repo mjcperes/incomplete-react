@@ -27,5 +27,14 @@
     "eslint-plugin-react-refresh": "^0.4.14",
     "globals": "^15.11.0",
     "vite": "^5.4.10"
+<<<<<<< HEAD
   }
+=======
+  },
+  "description": "- Neste projeto de React, vão trabalhar em equipa para fazer com que dê para alterar o título e o preço de cada produto.",
+  "main": "eslint.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> f49d5ce (Exercício Concluído)
 }

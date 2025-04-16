@@ -36,11 +36,8 @@ Critérios de Avaliação:
 - 10%: Ficheiro README com o link
 - 10%: Todos os utilizadores submeteram o mesmo link
 
-<<<<<<< HEAD
-=======
 ## Link
  
 [Link do Projeto](https://astounding-kelpie-e2236d.netlify.app/).
 
->>>>>>> f49d5ce (Exercício Concluído)
 ## Boa Sorte
